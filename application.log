@@ -1,0 +1,105 @@
+2023-03-26 15:46:03,863  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:46:05,676  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:46:05,968  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:46:06,083  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:46:09,142  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 15:46:09,211  INFO [main] cucumber:105 - *** logout****
+2023-03-26 15:46:09,956  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 15:46:11,144  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:46:12,109  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:46:12,391  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:46:12,507  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:46:15,632  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 15:46:15,711  INFO [main] cucumber:105 - *** logout****
+2023-03-26 15:46:16,436  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 15:46:17,629  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:46:18,538  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:46:18,799  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:46:18,868  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:46:20,268  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:46:21,289  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:46:21,595  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:46:21,775  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:46:24,934  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 15:46:25,002  INFO [main] cucumber:105 - *** logout****
+2023-03-26 15:46:25,749  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 15:46:26,934  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:46:27,794  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:46:28,072  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:46:33,189  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:46:36,272  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 15:46:36,346  INFO [main] cucumber:105 - *** logout****
+2023-03-26 15:46:37,092  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 15:47:30,212  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 15:47:31,234  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 15:47:31,526  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 15:47:31,666  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 15:47:34,804  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 15:47:34,869  INFO [main] cucumber:105 - *** logout****
+2023-03-26 15:47:35,543  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:35:40,049  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:35:41,364  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:35:41,672  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:35:41,827  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:35:44,951  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:35:45,040  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:35:45,786  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:37:02,247  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:37:03,224  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:37:03,532  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:37:03,658  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:37:06,774  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:37:52,258  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:37:53,436  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:37:53,732  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:37:53,864  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:37:56,969  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:39:11,114  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:39:12,003  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:39:12,482  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:39:12,648  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:39:15,803  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:39:15,872  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:39:16,586  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:40:29,165  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:40:30,122  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:40:30,563  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:40:30,797  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:40:33,932  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:40:34,026  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:40:34,697  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:42:13,962  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:42:15,100  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:42:15,397  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:42:15,506  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:42:18,696  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:42:18,781  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:42:19,474  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:42:51,496  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:42:52,511  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:42:52,818  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:42:53,024  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:42:56,106  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:42:56,210  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:42:56,840  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:43:37,844  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:43:38,837  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:43:39,185  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:43:39,343  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:43:42,511  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:43:42,599  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:43:43,400  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-26 22:44:14,637  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-26 22:44:15,544  INFO [main] cucumber:60 - ***url opened****
+2023-03-26 22:44:15,820  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-26 22:44:15,941  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-26 22:44:19,064  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-26 22:44:19,134  INFO [main] cucumber:105 - *** logout****
+2023-03-26 22:44:19,852  INFO [main] cucumber:110 - *** broweser closed****
+2023-03-27 17:01:48,243  INFO [main] cucumber:53 - *** broweser launchec****
+2023-03-27 17:01:49,619  INFO [main] cucumber:60 - ***url opened****
+2023-03-27 17:01:49,922  INFO [main] cucumber:68 - *** username & password entered****
+2023-03-27 17:01:50,072  INFO [main] cucumber:76 - *** logged in succesfully****
+2023-03-27 17:01:53,201  INFO [main] cucumber:100 - *** clicked on optoions****
+2023-03-27 17:01:53,293  INFO [main] cucumber:105 - *** logout****
+2023-03-27 17:01:54,125  INFO [main] cucumber:110 - *** broweser closed****
